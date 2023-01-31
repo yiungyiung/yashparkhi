@@ -1,4 +1,4 @@
-<h1 align="center">Hey, it's me YASH PARKHI</h1>
+<h1 align="center">YASH PARKHI</h1>
 - All My repositories available here -> [https://github.com/yiungyiung?tab=repositories](https://github.com/yiungyiung?tab=repositories)
 
 - My Website at [https://yiungyiung.web.app/](https://yiungyiung.web.app/)

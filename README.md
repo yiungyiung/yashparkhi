@@ -1,11 +1,9 @@
 <h1 align="center">Hey, it's me YASH PARKHI</h1>
-<h3 align="center">A Freshman at a college in India</h3>
+- All My repositories available here -> [https://github.com/yiungyiung?tab=repositories](https://github.com/yiungyiung?tab=repositories)
 
-- All My repositories at [https://github.com/yiungyiung?tab=repositories](https://github.com/yiungyiung?tab=repositories)
+- My Website at [https://yiungyiung.web.app/](https://yiungyiung.web.app/)
 
-- My Website is [https://yiungyiung.web.app/](https://yiungyiung.web.app/)
-
-- Email at **yashparkhi.super@gmail.com**
+- Email @ **yashparkhi.super@gmail.com**
 
 - My resume available at [https://yiungyiung.web.app/static/media/resume.129e1c0d.pdf](https://yiungyiung.web.app/static/media/resume.129e1c0d.pdf)
 

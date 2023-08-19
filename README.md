@@ -5,7 +5,7 @@
 
 - Email @ **yashparkhi.super@gmail.com**
 
-- My resume available at [https://yiungyiung.web.app/static/media/resume.129e1c0d.pdf](https://yiungyiung.web.app/static/media/resume.129e1c0d.pdf)](https://yiungyiung.web.app/static/media/res.8578c56e.pdf)
+- My resume available at (https://yiungyiung.web.app/static/media/resume.129e1c0d.pdf)](https://yiungyiung.web.app/static/media/res.8578c56e.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,8 +3,16 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yiungyiung/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yiungyiung.yiungyiung&"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yiungyiung&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ###
 
